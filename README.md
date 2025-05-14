@@ -1,7 +1,14 @@
 #  Duygu Tanıma Sistemi
 
 ## Proje Açıklaması
-Bu proje, bilgisayar kamerası üzerinden alınan görüntülerde insan yüzlerini algılayarak duygularını analiz eden gerçek zamanlı bir görüntü işleme uygulamasıdır. OpenCV ile yüz algılama yapılırken, DeepFace kütüphanesi kullanılarak yedi temel duygunun tespiti gerçekleştirilmiştir.
+Bu proje, Namık Kemal Üniversitesi Bilgisayar Mühendisliği Bölümü BMSB402 - Görüntü İşleme dersi kapsamında, Doç. Dr. Ahmet Saygılı danışmanlığında, proje hazırlama ödevi olarak gerçekleştirilmiştir.
+
+Projenin temel amacı, görüntü işleme tekniklerini gerçek zamanlı uygulamalara entegre ederek, insan yüzü tespiti ve duygu analizi gibi alanlarda öğrencilere pratik deneyim kazandırmaktır. Python dili kullanılarak geliştirilen bu sistemde, OpenCV kütüphanesi ile yüz algılama işlemleri gerçekleştirilmiş, DeepFace kütüphanesi ile de yedi temel insan duygusu analiz edilmiştir.
+
+Uygulama, bilgisayar kamerası üzerinden alınan görüntülerde yüzleri tespit eder ve her bir yüz bölgesi için duygu analizi yaparak ekrana anlık sonuçları yansıtır. Proje; insan-bilgisayar etkileşimi, güvenlik sistemleri, kullanıcı analizi gibi birçok alanda uygulanabilir temel bir görüntü işleme uygulamasını modellemektedir.
+
+Bu çalışma, öğrencilerin görüntü işleme tekniklerini yapay zekâ kütüphaneleri ile birleştirerek gerçek dünya problemlerine yönelik çözümler üretme becerilerini geliştirmeyi hedeflemektedir. Projenin sonunda geliştirilen sistem, gerçek zamanlı analiz yapabilen, kullanıcı dostu ve işlevsel bir duygu tanıma aracı olarak çalışmaktadır.
+
 
 ## Amaç
 - Görüntü işleme konularını yapay zekâ ile entegre etmek
