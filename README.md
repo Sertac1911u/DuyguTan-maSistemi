@@ -56,7 +56,7 @@ q tuşuna basmanız yeterlidir.
 https://drive.google.com/file/d/1KGw2SPB6-2toi8SmXsaqYOyovRevVHHa/view?usp=sharing
 
 ## Katkıda Bulunanlar
-2210656058 Sertaç YILDIRIM
+2210656058 Sertaç YILDIRIM   
 2210656010 Kadir Han YARTAŞI   
 2210656033 Abdülkerim AKTAŞ
 
