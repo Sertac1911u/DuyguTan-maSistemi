@@ -46,7 +46,7 @@ pip install opencv-python deepface
 
 ### Uygulamayı Başlatmak için:
 ```bash
-python emotion_detector.py
+python emotion_detector_go.py
 ```
 
 ### Çıkmak için:
