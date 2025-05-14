@@ -35,12 +35,14 @@ Bu proje, bilgisayar kamerası üzerinden alınan görüntülerde insan yüzleri
 ### Gerekli Kurulumlar:
 ```bash
 pip install opencv-python deepface
+```
 
-Uygulamayı Başlatmak için:
+### Uygulamayı Başlatmak için:
 ```bash
 python emotion_detector.py
+```
 
-Çıkmak için:
+### Çıkmak için:
 q tuşuna basmanız yeterlidir.
 
 ## Demo Videosu
